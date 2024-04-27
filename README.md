@@ -10,9 +10,9 @@ StudyMate is a mobile application designed to help students organize their acade
 - *Link Integration*: Open links directly within the app for quick reference.
 
 ## Screenshots
-![logo](https://github.com/likhitavarma/StudyMate/assets/96068821/fe17ae98-709c-4074-ab4c-4e81893ca5a4)
 ![IMG-20240427-WA0059](https://github.com/likhitavarma/StudyMate/assets/96068821/d3b4f632-5972-4ef5-9d15-8c7edfe04dfb)
 ![WhatsApp Image 2024-04-27 at 11 32 16_52bf2dc8](https://github.com/likhitavarma/StudyMate/assets/96068821/2ab1d12c-6da3-449e-a343-58af9dc25254)
+![WhatsApp Image 2024-04-27 at 11 32 15_01c4b30d](https://github.com/Girija587/StudyMate/assets/125687551/577813f8-2b49-4b11-b156-0bae77528d37)
 ![WhatsApp Image 2024-04-27 at 11 32 22_3a9f2118](https://github.com/likhitavarma/StudyMate/assets/96068821/7e938466-6e2b-4ead-b8d2-2b528441613c)
 
 
